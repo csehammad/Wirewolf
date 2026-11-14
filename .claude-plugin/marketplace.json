@@ -1,0 +1,16 @@
+{
+  "name": "wirewolf",
+  "owner": {
+    "name": "Hammad Ul Haq",
+    "email": "hello@hammadabbasi.com",
+    "url": "https://hammadabbasi.com/"
+  },
+  "description": "Wirewolf: see everything Claude Code sends, and stop paying for what it doesn't need.",
+  "plugins": [
+    {
+      "name": "wirewolf",
+      "source": "./",
+      "description": "See everything Claude Code sends, and stop paying for what it doesn't need."
+    }
+  ]
+}

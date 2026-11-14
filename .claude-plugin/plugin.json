@@ -1,0 +1,23 @@
+{
+  "name": "wirewolf",
+  "version": "1.0.0",
+  "description": "See everything Claude Code sends, and stop paying for what it doesn't need. Inspect every request, trim unused skills, tools and MCP servers, shorten huge tool outputs, and compact, from a pane beside the chat.",
+  "author": {
+    "name": "Hammad Ul Haq",
+    "email": "hello@hammadabbasi.com",
+    "url": "https://hammadabbasi.com/"
+  },
+  "homepage": "https://github.com/csehammad/Wirewolf",
+  "repository": "https://github.com/csehammad/Wirewolf",
+  "license": "Apache-2.0",
+  "keywords": [
+    "context",
+    "tokens",
+    "cost",
+    "skills",
+    "mcp",
+    "inspect",
+    "optimize"
+  ],
+  "types": "./types/index.d.ts"
+}
