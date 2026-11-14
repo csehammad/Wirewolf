@@ -1,6 +1,14 @@
-# Wirewolf
+<p align="center">
+  <img src="docs/images/logo.png" alt="Wirewolf logo" width="180">
+</p>
 
-**See everything Claude Code sends, and stop paying for what it doesn't need.**
+<h1 align="center">Wirewolf</h1>
+
+<p align="center"><b>See everything Claude Code sends, and stop paying for what it doesn't need.</b></p>
+
+<p align="center">
+  <img src="docs/images/demo.gif" alt="Wirewolf's four tabs: Inspect, Save, Trim and Storage" width="420">
+</p>
 
 Every time you send a message, Claude Code re-sends its whole system prompt, every tool schema, the full skill listing and the entire conversation so far. On a long session that is often over 150,000 tokens per request, most of it repeated.
 
@@ -11,6 +19,12 @@ Wirewolf watches the wire. It captures each request as it leaves Claude Code, br
 ---
 
 ## What it does
+
+![Wirewolf docked beside the chat in the Claude desktop app, showing the latest request split into parts](docs/images/inspect.png)
+
+| Save | Trim | Storage |
+|---|---|---|
+| <img src="docs/images/save.png" alt="Save tab: compact, shorten tool outputs, defer tools" width="260"> | <img src="docs/images/trim.png" alt="Trim tab: skills with token cost and Remove buttons" width="260"> | <img src="docs/images/storage.png" alt="Storage tab: disk usage and cleanup" width="260"> |
 
 ### Inspect: see every request
 
